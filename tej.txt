@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 tej @ 11.45 25
 
 Now we are in dev (clone)
-=======
-tej @ 11.45  
-Class Good
->>>>>>> origin/master
